@@ -1,0 +1,41 @@
+body {
+
+	background-color: darkkhaki;
+
+}
+
+h1, h3 {
+		text-align: center;
+		color: ghostwhite;
+		font-family: monospace;
+		font-size: 30px;
+
+}
+
+article li 	{
+			 color: antiquewhite;
+			align-items: center;
+			background-color: chocolate;
+			font-size: 40px;
+			opacity: 800px;
+			 }
+
+
+.navigation {
+	font-family: fantasy;
+		}
+
+p {
+	font-family: cursive;
+	font-style: italic;
+	font-stretch: expanded;
+	font-size: 20px;
+
+}
+
+.target {
+
+	font-size: 15px;
+	font-weight: bold;
+	background-color: sandybrown;
+}
