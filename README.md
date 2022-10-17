@@ -1,2 +1,2 @@
 # raphinos.github.io
-work in progress
+connecting the world
